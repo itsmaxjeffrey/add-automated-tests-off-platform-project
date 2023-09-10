@@ -1,6 +1,5 @@
 from flask import Flask, jsonify, request
 
-//loll
 app = Flask(__name__)
 
 balance = 0
